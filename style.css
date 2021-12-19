@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&family=Shippori+Antique+B1&display=swap');
+section{
+    text-align: center;
+    border-style: outset;
+    width: 50%;
+    font-family: 'Shippori Antique B1';
+    background-color: black;
+    border-radius: 10px;
+    margin: auto;
+
+}
+h3{
+    color: blue;
+}
+h2{
+    color: rgb(255, 255, 255);
+    border-style: outset;
+    width: 70%;
+    margin: auto;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#display{
+    color:red;
+}
+p>input {
+    color: white;
+    background-color: grey;
+    
+}
